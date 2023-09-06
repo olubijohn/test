@@ -56,8 +56,3 @@ export const LandingPage = () => {
 
 )
 };
-
-// </div>     
-{/* <div style={{ width: "200px", height: "200px", }}> */}
-{/* <img src={image} alt="" style={{ width: "610px", height: "550px", marginTop: "80px", marginRight: "400px" }} /> */}
-{/* <div style={{ float: "left", border: "4px solid" }}> */}     
